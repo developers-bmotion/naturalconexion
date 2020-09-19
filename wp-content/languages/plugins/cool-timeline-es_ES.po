@@ -1,0 +1,451 @@
+# Translation of Plugins - Cool Timeline - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Cool Timeline - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-04-30 06:50:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Cool Timeline - Development (trunk)\n"
+
+#: includes/shortcodes/story-timeline/cool-timeline-shortcode.php:314
+#: includes/shortcodes/story-timeline/cool-timeline-shortcode.php:322
+msgid "Y"
+msgstr "Y"
+
+#: cooltimeline.php:253
+msgid "Submit Review ★★★★★"
+msgstr "Envía una reseña ★★★★★"
+
+#: cooltimeline.php:255
+msgid "Upgrade to Pro version"
+msgstr "Actualizar a la versión Pro"
+
+#: cooltimeline.php:251
+msgid "If you find our plugin and support helpful.<br>Please rate and review us,It helps us grow <br>and improve our services"
+msgstr "Si te ha gustado nuestro plugin y el soporte ha sido de ayuda.<br>Por favor, haznos una valoración y haz reseña, ya que nos ayudará a crecer <br> y mejorar nuestros servicios"
+
+#: admin/ctl-meta-fields.php:30
+msgid "Story image size"
+msgstr "Tamaño de imagen de la historia"
+
+#: admin/cool-timeline-settings.php:9
+msgid "Cool Timeline Settings"
+msgstr "Ajustes de Cool Timeline"
+
+#: admin/class.cool-timeline-posttype.php:73
+msgid "Story Icon"
+msgstr "Icono suceso"
+
+#: admin/class.cool-timeline-posttype.php:72
+msgid "Story Date"
+msgstr "Fecha suceso"
+
+#: admin/class.cool-timeline-posttype.php:70
+msgctxt "column name"
+msgid "Story Title"
+msgstr "Título suceso"
+
+#: admin/class.review-notice.php:67
+msgid "No, not good enough, i do not like to rate it!"
+msgstr "No, no es suficientemente bueno, ¡no me gustaría valorarlo!"
+
+#: admin/class.review-notice.php:65
+msgid "I already rated it"
+msgstr "Ya lo he puntuado."
+
+#: cooltimeline.php:240
+msgid "Please Give Us Your Feedback"
+msgstr "Por favor déjanos una reseña"
+
+#: admin/cool-timeline-settings.php:64
+msgid "Please enter no of words"
+msgstr "Por favor introduce un número de palabras"
+
+#: admin/cool-timeline-settings.php:63
+msgid "This option is overridden by shortcode. Please check shortcode generator."
+msgstr "Esta opción se anulará por un shortcode. Por favor, utiliza el generador de shortcodes."
+
+#: includes/ctl-helper-functions.php:458
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: includes/ctl-helper-functions.php:457
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: includes/ctl-helper-functions.php:447
+msgid " Page "
+msgstr " Página "
+
+#: includes/ctl-helper-functions.php:446
+msgid " of "
+msgstr " de "
+
+#: fa-icons/fa-icons-class.php:118
+msgid "Add Icon"
+msgstr "Añadir Icono"
+
+#: fa-icons/fa-icons-class.php:87
+msgid "Select Story Icon"
+msgstr "Selecciona el icono del suceso"
+
+#: fa-icons/fa-icons-class.php:122
+msgid "Select Font Awesome Icon"
+msgstr "Selecciona el icono Font Awesome"
+
+#: admin/ctl-meta-fields.php:30
+msgid "Small"
+msgstr "Pequeña"
+
+#: admin/ctl-meta-fields.php:30
+msgid "Full"
+msgstr "Completa"
+
+#: includes/shortcodes/story-timeline/cool-timeline-shortcode.php:353
+msgid "Sorry,You have not added any story yet"
+msgstr "Lo siento, no has añadido ningún suceso todavía"
+
+#: includes/shortcodes/story-timeline/cool-timeline-shortcode.php:132
+msgid "d/M/Y"
+msgstr "d/M/A"
+
+#: includes/shortcodes/story-timeline/cool-timeline-shortcode.php:435
+#: includes/shortcodes/story-timeline/cool-timeline-shortcode.php:441
+msgid "F j"
+msgstr "j F"
+
+#: includes/shortcodes/story-timeline/cool-timeline-shortcode.php:32
+msgid "Read More"
+msgstr "Leer más"
+
+#: admin/class.cool-timeline-posttype.php:44
+msgid "Timeline Post Type Description"
+msgstr "Descripción del tipo de contenido de la linea de tiempo"
+
+#: admin/class.cool-timeline-posttype.php:43
+msgid "cool_timeline"
+msgstr "linea-tiempo"
+
+#: admin/class.cool-timeline-posttype.php:40
+msgid "Not found in Trash"
+msgstr "No se ha encontrado en la papelera"
+
+#: admin/class.cool-timeline-posttype.php:39
+msgid "Not found"
+msgstr "No encontrado"
+
+#: admin/class.cool-timeline-posttype.php:38
+msgid "Search Story"
+msgstr "Buscar suceso"
+
+#: admin/class.cool-timeline-posttype.php:37
+msgid "View Story"
+msgstr "Ver suceso"
+
+#: admin/class.cool-timeline-posttype.php:36
+msgid "Update Story"
+msgstr "Actualizar Suceso"
+
+#: admin/class.cool-timeline-posttype.php:35
+msgid "Edit Story"
+msgstr "Editar Suceso"
+
+#: admin/class.cool-timeline-posttype.php:34
+msgid "New Story"
+msgstr "Nuevo Suceso"
+
+#: admin/class.cool-timeline-posttype.php:33
+msgid "Add New"
+msgstr "Añadir nueva"
+
+#: admin/class.cool-timeline-posttype.php:32
+msgid "Add New Story"
+msgstr "Añadir nuevo suceso"
+
+#: admin/class.cool-timeline-posttype.php:31
+msgid "All Stories"
+msgstr "Todos los sucesos"
+
+#: admin/class.cool-timeline-posttype.php:30
+msgid "Parent Item:"
+msgstr "Item padre:"
+
+#: admin/class.cool-timeline-posttype.php:28
+#: admin/class.cool-timeline-posttype.php:29
+msgid "Timeline Stories"
+msgstr "Sucesos cronológicos"
+
+#: admin/class.cool-timeline-posttype.php:27
+msgctxt "Post Type Singular Name"
+msgid "Timeline Stories"
+msgstr "Sucesos cronológicos"
+
+#: admin/class.cool-timeline-posttype.php:26
+msgctxt "Post Type General Name"
+msgid "Timeline Stories"
+msgstr "Sucesos cronológicos"
+
+#: admin/cool-timeline-settings.php:121
+msgid "Post Content"
+msgstr "Contenido de Entrada"
+
+#: admin/cool-timeline-settings.php:120
+msgid "Story Title Style ?"
+msgstr "¿Estilo de título del suceso?"
+
+#: admin/cool-timeline-settings.php:118
+msgid "Story Title"
+msgstr "Título suceso"
+
+#: admin/cool-timeline-settings.php:117
+msgid "Main Title"
+msgstr "Título Principal"
+
+#: admin/cool-timeline-settings.php:108
+msgid "Second Color"
+msgstr "Color Secundario"
+
+#: admin/cool-timeline-settings.php:107
+msgid "First Color"
+msgstr "Color primario"
+
+#: admin/cool-timeline-settings.php:105
+msgid "Line Color"
+msgstr "Color de linea"
+
+#: admin/cool-timeline-settings.php:104
+msgid "Circle Color"
+msgstr "Color del ciculo"
+
+#: admin/cool-timeline-settings.php:103
+msgid "Story Background Color"
+msgstr "Color de fondo del suceso"
+
+#: admin/cool-timeline-settings.php:96
+msgid "Container Background "
+msgstr "Fondo del contenedor "
+
+#: admin/cool-timeline-settings.php:88
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: admin/cool-timeline-settings.php:70
+msgid "Stories Order ?"
+msgstr "¿ Orden de los sucesos ?"
+
+#: admin/cool-timeline-settings.php:75
+msgid "Display read more ?"
+msgstr "¿ Mostrar Leer más ?"
+
+#: admin/cool-timeline-settings.php:67
+#: includes/gutenberg-block/src/block.js:195
+msgid "Stories Description?"
+msgstr "¿Descripción de historias?"
+
+#: admin/cool-timeline-settings.php:73
+msgid "Timeline default Image"
+msgstr "Imagen por defecto de la linea de tiempo"
+
+#: admin/cool-timeline-settings.php:64
+msgid "Content Length "
+msgstr "Longitud de contenido"
+
+#: admin/cool-timeline-settings.php:63
+msgid "Number of stories to display ?"
+msgstr "¿Número de sucesos para mostrar?"
+
+#: admin/cool-timeline-settings.php:62
+msgid "Title Alignment ?"
+msgstr "¿Alineación del título?"
+
+#: admin/cool-timeline-settings.php:60
+msgid "Title Heading Tag "
+msgstr "Etiqueta del encabezado del título "
+
+#: admin/cool-timeline-settings.php:52
+msgid "Timeline Title (Default)  "
+msgstr "Título de la linea de tiempo (por defecto)"
+
+#: admin/cool-timeline-settings.php:32
+msgid "Advance Settings"
+msgstr "Ajustes avanzados"
+
+#: admin/cool-timeline-settings.php:31 admin/cool-timeline-settings.php:116
+msgid "Typography Settings"
+msgstr "Ajustes de tipografía"
+
+#: admin/cool-timeline-settings.php:30 admin/cool-timeline-settings.php:82
+msgid "Style Settings"
+msgstr "Ajustes de Estilo"
+
+#: admin/cool-timeline-settings.php:29 admin/cool-timeline-settings.php:49
+msgid "General Settings"
+msgstr "Ajustes generales"
+
+#: includes/class-cool-vc-addon.php:33 includes/class-cool-vc-addon.php:39
+msgid "Cool Timeline"
+msgstr "Cool Timeline"
+
+#: admin/admin-page-class/admin-page-class.php:3111
+msgid "Unkown Error"
+msgstr "Error desconocido"
+
+#: admin/admin-page-class/admin-page-class.php:3088
+msgid "Errors in saving changes"
+msgstr "Errores guardando datos"
+
+#: admin/admin-page-class/admin-page-class.php:3071
+msgid "Not Valid "
+msgstr "No válido "
+
+#: admin/admin-page-class/admin-page-class.php:3012
+#: admin/admin-page-class/admin-page-class.php:3014
+msgid "Download Export"
+msgstr "Descargar archivo de exportación"
+
+#: admin/admin-page-class/admin-page-class.php:2996
+msgid "Error Downloading file."
+msgstr "Error descargando el archivo."
+
+#: admin/admin-page-class/admin-page-class.php:2994
+msgid "You do not have sufficient permissions to edit templates for this site."
+msgstr "No tienes suficientes permisos para editar las plantillas de esta web."
+
+#: admin/admin-page-class/admin-page-class.php:2979
+msgid "Could not import settings! (4)"
+msgstr "¡No han podido importar los ajustes! (4)"
+
+#: admin/admin-page-class/admin-page-class.php:2977
+msgid "Refresh this page"
+msgstr "Volver a cargar esta página"
+
+#: admin/admin-page-class/admin-page-class.php:2977
+msgid "Setting imported, make sure you "
+msgstr "Ajustes importados, asegúrate de "
+
+#: admin/admin-page-class/admin-page-class.php:2965
+msgid "error in ajax request! (3)"
+msgstr "¡error en la solicitud de ajax! (3)"
+
+#: admin/admin-page-class/admin-page-class.php:2947
+msgid "error in ajax request! (2)"
+msgstr "¡error en la solicitud de ajax! (2)"
+
+#: admin/admin-page-class/admin-page-class.php:2940
+msgid "error in ajax request! (1)"
+msgstr "¡error en la solicitud de ajax! (1)"
+
+#: admin/admin-page-class/admin-page-class.php:2914
+msgid "Import Code"
+msgstr "Codigo de Importación"
+
+#: admin/admin-page-class/admin-page-class.php:2912
+msgid "To Import saved settings paste the Export output in to the Import Code box bellow and click Import."
+msgstr "Para importar los ajustes guardados pega el código exportado en la caja de importación a continuación y haz clic en importar."
+
+#: admin/admin-page-class/admin-page-class.php:2911
+#: admin/admin-page-class/admin-page-class.php:2916
+msgid "Import"
+msgstr "Importar"
+
+#: admin/admin-page-class/admin-page-class.php:2906
+msgid "Get Export"
+msgstr "Obtener la exportación"
+
+#: admin/admin-page-class/admin-page-class.php:2904
+msgid "Export Code"
+msgstr "Código de exportación"
+
+#: admin/admin-page-class/admin-page-class.php:2902
+msgid "To export saved settings click the Export button bellow and you will get the export Code in the box bellow, which you can later use to import."
+msgstr "Para exportar los ajustes guardados haz clic en el botón Exportar a continuación y  tendrás en la caja de exportación un código, que podrás utilizar luego para importar."
+
+#: admin/admin-page-class/admin-page-class.php:2901
+msgid "Export"
+msgstr "Exportar"
+
+#: admin/admin-page-class/admin-page-class.php:1858
+#: admin/meta-box-class/my-meta-box-class.php:820
+msgid "Select a color"
+msgstr "Seleccionar un color"
+
+#: admin/admin-page-class/admin-page-class.php:1707
+#: admin/admin-page-class/admin-page-class.php:1738
+msgid "Upload Image"
+msgstr "Subir imagen"
+
+#: admin/admin-page-class/admin-page-class.php:1702
+#: admin/admin-page-class/admin-page-class.php:1733
+msgid "Delete Image"
+msgstr "Eliminar imagen"
+
+#: admin/admin-page-class/admin-page-class.php:1685
+msgid "Add more files"
+msgstr "Añadir más archivos"
+
+#: admin/admin-page-class/admin-page-class.php:1679
+msgid "Upload new files"
+msgstr "Subir nuevos archivos"
+
+#: admin/admin-page-class/admin-page-class.php:1669
+msgid "Uploaded files"
+msgstr "Archivos subidos"
+
+#: admin/admin-page-class/admin-page-class.php:1486
+msgid "Select Files"
+msgstr "Selecciona archivos"
+
+#: admin/admin-page-class/admin-page-class.php:1332
+#: admin/meta-box-class/my-meta-box-class.php:444
+msgid "Add"
+msgstr "Añadir"
+
+#: admin/admin-page-class/admin-page-class.php:1322
+#: admin/admin-page-class/admin-page-class.php:1362
+#: admin/meta-box-class/my-meta-box-class.php:432
+#: admin/meta-box-class/my-meta-box-class.php:471
+msgid "Remove"
+msgstr "Quitar"
+
+#: admin/admin-page-class/admin-page-class.php:1150
+msgid "Cannot delete file. Something's wrong."
+msgstr "No se puede eliminar el archivo. Algo esta mal."
+
+#: admin/admin-page-class/admin-page-class.php:1072
+#: admin/admin-page-class/admin-page-class.php:1673
+msgid "Delete"
+msgstr "Borrar"
+
+#: admin/admin-page-class/admin-page-class.php:1072
+msgid "Delete this image"
+msgstr "Eliminar"
+
+#: admin/admin-page-class/admin-page-class.php:619
+msgid "Settings saved."
+msgstr "Ajustes guardados."
+
+#: admin/admin-page-class/admin-page-class.php:607
+#: admin/admin-page-class/admin-page-class.php:712
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: admin/admin-page-class/admin-page-class.php:575
+msgid "Use this Image"
+msgstr "Utiliza esta imagen"
+
+#: admin/admin-page-class/admin-page-class.php:574
+msgid "Use this File"
+msgstr "Utilizar este archivo"
+
+#: admin/admin-page-class/admin-page-class.php:574
+#: admin/admin-page-class/admin-page-class.php:575
+msgid "Insert into Post"
+msgstr "Insertar en el mensaje"
+
+#: admin/admin-page-class/admin-page-class.php:349
+msgid "Allowed Files"
+msgstr "Archivos permitidos"
