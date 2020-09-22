@@ -1233,11 +1233,12 @@ if ( ! function_exists( 'woodmart_page_title' ) ) {
 			}
 
 			?>
+				<div style="margin-top: -42px;"><?php echo do_shortcode( '[rev_slider alias="sello-verde-1"][/rev_slider]' ); ?></div>
 				<?php if ( apply_filters( 'woocommerce_show_page_title', true ) && ! is_singular( 'product' ) ) : ?>
 					<div class="page-title <?php echo esc_attr( $title_class ); ?> title-shop" style="<?php echo esc_attr( $style ); ?>">
 						<div class="container">
 							<div class="nav-shop">
-
+							
 								<div class="shop-title-wrapper">
 									<?php if ( is_product_category() || is_product_tag() ) : ?>
 										<?php woodmart_back_btn(); ?>

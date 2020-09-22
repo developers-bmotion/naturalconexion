@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2020-09-16 23:02+0000\n"
+"PO-Revision-Date: 2020-09-22 00:51+0000\n"
 "Last-Translator: \n"
 "Language-Team: Español\n"
 "X-Generator: Loco https://localise.biz/\n"
@@ -13575,7 +13575,7 @@ msgstr ""
 
 #: inc/template-tags.php:555
 msgid "Newer"
-msgstr ""
+msgstr "ANTERIOR"
 
 #: inc/template-tags.php:564
 msgid "Back to list"
@@ -13583,7 +13583,7 @@ msgstr "Volver a la lista"
 
 #: inc/template-tags.php:572
 msgid "Older"
-msgstr ""
+msgstr "SIGUIENTE"
 
 #: inc/template-tags.php:622
 msgid "Newer Posts &rarr;"
